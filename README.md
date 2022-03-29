@@ -1,1 +1,1 @@
-# XIAO Rocket Datalogger R1
+Rocket Datalogger R1
