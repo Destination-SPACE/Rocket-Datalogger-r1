@@ -1,1 +1,1 @@
-# Rocket-Logger-v2
+# XIAO Rocket Datalogger R1
